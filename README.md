@@ -1,6 +1,6 @@
 # Sentiment Analysis Project
 
-This repository contains a sentiment analysis project focused on predicting the sentiment of textual data. The project is built using Python and includes several components for model training, prediction, and evaluation.
+This project is a Python-based sentiment analysis model developed by me to predict user sentiment (positive, neutral, or negative) from textual data; it focuses on leveraging natural language processing techniques, classification algorithms, using libraries like scikit-learn and pandas, to build and evaluate a logistic regression model.
 
 ## Overview
 

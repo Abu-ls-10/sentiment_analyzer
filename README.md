@@ -46,7 +46,7 @@ The project involves three main files:
 
 ## Installation and Requirements
 
-To run the scripts, ensure you have the following Python packages installed:
+To run the scripts, ensure the following Python packages are installed:
 
 - `pandas`
 - `scikit-learn`
@@ -54,7 +54,6 @@ To run the scripts, ensure you have the following Python packages installed:
 - `scipy`
 - `matplotlib`
 - `seaborn`
-- `umap-learn`
 
 You can install the required packages using pip:
 
